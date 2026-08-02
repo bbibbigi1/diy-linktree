@@ -1,0 +1,7 @@
+[
+  { "label": "GitHub", "url": "https://github.com/you" },
+  { "label": "Twitter", "url": "https://x.com/you" },
+  { "label": "LinkedIn", "url": "https://linkedin.com/in/you" },
+  { "label": "Reddit", "url": "https://reddit.com/u/you" },
+  { "label": "Bluesky", "url": "https://bsky.app/profile/you" }
+]
