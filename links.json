@@ -3,5 +3,6 @@
   { "label": "Twitter", "url": "https://x.com/bbibbigi_" },
   { "label": "Medium", "url": "https://medium.com/@khoaly.labs" },
   { "label": "Reddit", "url": "https://www.reddit.com/user/bbibbigi/" },
-  { "label": "Bluesky", "url": "https://bsky.app/profile/miqobobs.bsky.social " }
+  { "label": "Bluesky", "url": "https://bsky.app/profile/miqobobs.bsky.social" },
+  { "label": "Carrd", "url": "https://miqobobs.carrd.co/" }
 ]
